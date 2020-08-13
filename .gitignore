@@ -1,2 +1,7 @@
 .ipynb_checkpoints
 statsenv
+Archive
+LaTeX
+*.pdf
+PDF*
+clean.py
